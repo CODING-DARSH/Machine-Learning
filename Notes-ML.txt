@@ -1,0 +1,7 @@
+OverFitting-It memorize the data instead of learning from it    Train_score(>95%) test/prediction_score(<70%)
+UnderFitting-It doesnt learn enough pattern from data given     Train_score(<70%) test/prediction_score(<70%)
+Epoch means how many times a data is going from 0 th position to nth position and with each increasing epoch ur model predicting accuracy increases
+Bias-Bias in machine learning is the built-in error or assumption a model makes while learning.
+Clustering- Automatically grouping similar things  
+Gradient Descent = How models learn from mistakes
+ 
